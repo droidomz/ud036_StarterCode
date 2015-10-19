@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 #Movie Trailer Website Project 
 TODO: Write a project description
 ## Installation
